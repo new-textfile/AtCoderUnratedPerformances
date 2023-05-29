@@ -1,8 +1,8 @@
 {
-    "hitachi2020": 3200,
-    "keyence2020": 3200,
-    "nikkei2019-2-qual": 2953,
-    "nomura2020": 2576,
     "tenka1-2017": 2158,
+    "nikkei2019-2-qual": 2953,
+    "keyence2020": 3200,
+    "hitachi2020": 3200,
+    "nomura2020": 2576,
     "tokiomarine2020": 3200
 }
